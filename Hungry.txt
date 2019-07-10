@@ -2,4 +2,6 @@ it has lot of recipes
 
 1.brinjal
 2.tomato
+3.pizza
+4.banana
 
